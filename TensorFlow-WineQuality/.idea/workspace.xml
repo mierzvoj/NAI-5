@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c235e1a7-ff8a-4f4a-8d21-da6d6aad0719" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/000_TensorFlow_Installation_M1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_TensorFlow_Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_TensorFlow_Regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/003_TensorFlow_Classification.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004_Optimizing_Learning_Rate.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_Optimize_Neural_Network_Architecture.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/006_Callbacks.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/007_Custom_Callbacks.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/008_CNN_001_Working_With_Image_Data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009_CNN_002_Image_Classification_With_ANN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010_CNN_003_Image_Classification_With_CNN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011_CNN_004_Convolutions_From_Scratch.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012_CNN_005_Pooling_From_Scratch.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/013_CNN_006_Increasing_Model_Complexity.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/014_CNN_007_Data_Augmentation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/015_CNN_008_Transfer_Learning.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ImTjBEi1PtMYH8ZNu8Tm4nUy0s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/mierzvoj.OTAGO1/OneDrive/NAI/NAI-5/TensorFlow WineQuality",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c235e1a7-ff8a-4f4a-8d21-da6d6aad0719" name="Changes" comment="" />
+      <created>1670785891855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670785891855</updated>
+      <workItem from="1670785893017" duration="172000" />
+      <workItem from="1670786155078" duration="31000" />
+      <workItem from="1670786549075" duration="230000" />
+      <workItem from="1670786803767" duration="7298000" />
+      <workItem from="1670794303591" duration="96000" />
+      <workItem from="1670794432052" duration="88000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TensorFlow$TFCLASS.coverage" NAME="TFCLASS Coverage Results" MODIFIED="1670793968867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TensorFlow_WineQuality$TFCLASS.coverage" NAME="TFCLASS Coverage Results" MODIFIED="1670794472249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
